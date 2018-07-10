@@ -1,0 +1,18 @@
+{
+    "status": "200",
+    "data": {
+        "MID": "RbslSt97816912243558",
+        "CHANNEL_ID": "WAP",
+        "INDUSTRY_TYPE_ID": "Retail",
+        "WEBSITE": "APP_STAGING",
+        "TXN_AMOUNT": 300,
+        "ORDER_ID": "ORDER-22122945831531217066",
+        "EMAIL": "tejashwi.1991@gmail.com",
+        "MOBILE_NO": "1234567890",
+        "CUST_ID": 27,
+        "CALLBACK_URL": "https://pguat.paytm.com/paytmchecksum/paytmCallback.jsp",
+        "CHECKSUM": "mwT+gkpjIQ7vsfcJutBiGPWEnslN7Cho821o/g+EzxkS9lEHUT8aEwD6JXRzZz3hUDyZThy2VZc5std8WmmwNTyjdOLd28sERBN0mg+acMg="
+    },
+    "errorMessage": "",
+    "detailError": ""
+}
